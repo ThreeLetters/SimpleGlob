@@ -1,0 +1,24 @@
+{
+  "name": "simpleglob",
+  "version": "0.0.1",
+  "description": "Glob without Glob. A one-file package that allows for the use of file extraction using Glob patterns",
+  "main": "SimpleGlob.js",
+  "scripts": {
+    "test": "node SimpleGlob.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThreeLetters/SimpleGlob.git"
+  },
+  "keywords": [
+    "Glob",
+    "nodejs",
+    "globjs"
+  ],
+  "author": "Andrews54757",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThreeLetters/SimpleGlob/issues"
+  },
+  "homepage": "https://github.com/ThreeLetters/SimpleGlob#readme"
+}
